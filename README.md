@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I am a tech enthusiast deeply invested in ML/AI, Cloud/DevOps/MLOps, and Software Development. Committed to lifelong learning, I actively document my progress and share educational resources.
 
 
-## 🌐 Socials:
+##  Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tric20062006) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/trietnm206/) 
