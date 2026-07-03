@@ -1,5 +1,71 @@
 #  About Me:
-I am a tech enthusiast deeply invested in ML/AI, Cloud/DevOps/MLOps, and Software Development. Committed to lifelong learning, I actively document my progress and share educational resources.
+# Hi, I'm Nguyễn Minh Triết
+
+**AI Engineer focused on LLM systems, neuro-symbolic reasoning, medical vision-language models, and competition-grade ML pipelines.**
+
+I build applied AI systems that connect model reasoning, evaluation, and deployable software workflows — from LLM/XAI competition systems to financial forecasting, medical captioning, adversarial robustness, and document-conversion tooling.
+
+---
+
+## Highlights
+
+- **EXACT 2026 / IJCNN — Team Astatine**  
+  Built a neuro-symbolic educational QA system with Qwen3-8B QLoRA fine-tuning, vLLM inference, Best-of-N generation, Z3-style verification, parser policy, smoke gates, risk audits, and submission hardening.  
+  **Round 2 snapshot: Rank #28 / 180 registered teams · 34.27 pts · 0 penalty**
+
+- **Kaggle Hedge Fund Time Series Forecasting — Team TIU**  
+  Built a leak-safe financial forecasting pipeline with Polars feature engineering, per-horizon LightGBM models, cross-sectional features, N-HiTS-inspired features, and multi-seed ensembling.  
+  **Leaderboard: Top 7 · Score 0.1748**
+
+- **ImageCLEFmedical Caption 2026**  
+  Built a medical image captioning pipeline using ViT-B/16, DistilGPT-2, and a CUI-aware auxiliary concept head for more medically grounded caption generation.  
+  **Final submission: 19,239 synthetic validation captions**
+
+---
+
+## Featured Projects
+
+| Project | Focus | Why it matters |
+|---|---|---|
+| [complete---exact](https://github.com/trietnguyeminh/complete---exact) | LLM, XAI, neuro-symbolic QA | Flagship system: Qwen3 QLoRA, vLLM, Z3 verification, smoke testing, risk audit |
+| [kaggle_hedge_fund_time_series](https://github.com/trietnguyeminh/kaggle_hedge_fund_time_series) | Time-series forecasting | Kaggle Top 7 solution with leak-safe feature engineering and LightGBM ensembling |
+| [IMAGECLEFMED-CAPTION-2026](https://github.com/trietnguyeminh/IMAGECLEFMED-CAPTION-2026-CAPTION-PREDICTION-SYNTHETICAL) | Medical vision-language | ViT + DistilGPT-2 + CUI-aware captioning pipeline |
+| [OCR / FormuDoc Converter](https://github.com/trietnguyeminh/OCR---pandoc---tesseract---pic2text---rapid_latex) | Full-stack AI tooling | FastAPI + React + OCR/formula/table extraction pipeline for PDF-to-DOCX conversion |
+| [adversial-attack](https://github.com/trietnguyeminh/adversial-attack) | Adversarial robustness | PGD/MI-FGSM/DI-FGSM attack pipeline under PSNR constraints |
+| [MTCNN-FaceNet](https://github.com/trietnguyeminh/MTCNN-FaceNet) | Computer vision demo | MTCNN detection + FaceNet embeddings for small-scale face recognition |
+
+---
+
+## Technical Areas
+
+**AI / ML:** PyTorch, Transformers, Hugging Face, LightGBM, time-series forecasting, computer vision, medical image captioning  
+**LLM Engineering:** Qwen/Qwen3, QLoRA, LoRA adapters, vLLM inference, Best-of-N generation, structured parsing  
+**XAI / Symbolic Reasoning:** Z3-style entailment, neuro-symbolic QA, logic formalization, risk auditing  
+**Data / Evaluation:** Polars, pandas, smoke tests, validation gates, leakage-safe validation, F1/accuracy reporting  
+**Software:** Python, FastAPI, React, TypeScript, Docker, notebooks-to-pipeline refactoring
+
+---
+
+## Current Focus
+
+I am currently improving my AI Engineering portfolio by turning competition notebooks into cleaner, reproducible systems with:
+
+- `requirements.txt` / `environment.yml`
+- one-command smoke tests
+- pipeline diagrams
+- reusable `src/` modules
+- inference and evaluation scripts
+- clearer project documentation
+
+---
+
+## Contact
+
+- GitHub: [@trietnguyeminh](https://github.com/trietnguyeminh)
+- Kaggle: add your Kaggle profile link here
+- LinkedIn: add your LinkedIn link here
+- Email: add your email here
+
 
 
 ##  Socials:
