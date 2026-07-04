@@ -6,6 +6,7 @@
 I build applied AI systems that connect model reasoning, evaluation, and deployable software workflows — from LLM/XAI competition systems to financial forecasting, medical captioning, adversarial robustness, and document-conversion tooling.
 
 ---
+[![Scout Score](https://signals.gitdealflow.com/api/badge/scout/trietnguyeminh/svg)](https://signals.gitdealflow.com/receipts/trietnguyeminh)
 
 ## Highlights
 
