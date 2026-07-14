@@ -78,5 +78,19 @@ I am currently improving my AI Engineering portfolio by turning competition note
 
 ---
 [![](https://visitcount.itsvg.in/api?id=trietnguyeminh&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Activity Overview
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trietnguyeminh&theme=github_dark" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trietnguyeminh&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trietnguyeminh&theme=github_dark" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trietnguyeminh&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trietnguyeminh&theme=github_dark&utcOffset=7" width="49%">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
